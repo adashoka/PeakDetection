@@ -1,0 +1,2 @@
+Apex Time (min)	Class	Start Time	Start Height	End Time	End Height
+11.239	A	10.818	4.8601088599999846E-05	11.835	0.0001667385545
